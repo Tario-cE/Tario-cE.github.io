@@ -2,16 +2,17 @@
 <rss version="2.0">
     <channel>
         <title>Wlcome</title>
-        <subtitle></subtitle>
+        <subtitle>saa</subtitle>
         <icon>https://github.com/Tario-cE/Tario-cE.github.io/assets/favicon.ico</icon>
         <link>https://github.com/Tario-cE/Tario-cE.github.io</link>
         <author>
           <name>Tario-cE</name>
         </author>
-        <description></description>
+        <description>a blog</description>
         <language>zh-CN</language>
         <pubDate>Sat, 09 Mar 2024 13:28:04 +0800</pubDate>
         <lastBuildDate>Sat, 09 Mar 2024 13:28:04 +0800</lastBuildDate>
+        <category term="blog" />
         <item>
             <guid isPermalink="true">https://github.com/Tario-cE/Tario-cE.github.io/2024/03/09/hello-world/</guid>
             <title>Hello World</title>
